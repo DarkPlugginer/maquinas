@@ -1,0 +1,5 @@
+name: BukkitKotlin
+version: 1.0
+author: Miguel
+main: com.nifer.Main
+loadbefore: [Vault]
